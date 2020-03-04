@@ -1,0 +1,2 @@
+bebekAmira.attack.SwordAttack
+bebekAmira.attack.ArrowAttack
